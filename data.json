@@ -1,0 +1,38 @@
+{
+  "personalInfo": {
+    "name": "Aslıhan Sözen",
+    "phone": "+905070452170",
+    "email": "aslihan.sozen@code2career.eu",
+    "linkedin": "https://www.linkedin.com/feed/?trk=onboarding-landing",
+    "github": "https://github.com/aslihansozen",
+    "location": "Türkiye"
+  },
+  "summary": "After completing my undergraduate studies in English Language and Literature, I crowned my academic journey with a pedagogical formation certificate. In addition to the academic knowledge I have gained so far, I also took courses in teaching Turkish to foreigners and subsequently taught Turkish online for a period of time. Recently, I have been studying software development and learning to code. I am highly motivated by the process of creating things through coding, and I aim to improve myself and work in this field.",
+  "education": [
+    {
+      "degree": "Bachelor's degree / English Language and Literature",
+      "school": "Karadeniz Technical University",
+      "location": "In Trabzon",
+      "dates": "2015-2019"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Internship",
+      "company": "Erasmus/ in Rheinland Privatschule",
+      "location": "In Germany",
+      "dates": "2017-2018",
+      "description": "Rheinland Privatschule is a school that provides German language education. The school primarily attracted foreign students who wished to migrate or learn German. My role at this institution was to reach out to educational organizations around the world and establish partnerships and collaborations with our school. I successfully built partnerships with many educational institutions.",
+      "skills": ["HTML", "CSS", "Git", "Communication", "Teamwork"]
+    }
+  ],
+  "certifications": [
+    "FRONTEND AI DEVELOPMENT PROGRAM Online Course -Present",
+    "Certificate in Teaching Turkish as a Foreign Language",
+    "Certificate in German Language A1-A2 Level"
+  ],
+  "languages": [
+    "English- Intermediate",
+    "German- Pre-intermediate"
+  ]
+}
